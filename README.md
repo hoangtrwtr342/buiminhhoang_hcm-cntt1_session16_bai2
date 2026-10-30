@@ -14,7 +14,7 @@
   - Bước 2 : Xóa hẳn email ứng viên khỏi danh sách chia sẽ
   - Bước 3 : Tắt quyền chia sẽ link của editor
 
-** Bẫy dữ liệu : ** Khi muốn biết người lạ đã copy , hay chụp màn hình dữ liệu hay chưa
+**Bẫy dữ liệu :** Khi muốn biết người lạ đã copy , hay chụp màn hình dữ liệu hay chưa
  * Vào mục Drive log events, lọc theo:
 
         1. Document ID của file danh sách ứng viên.
